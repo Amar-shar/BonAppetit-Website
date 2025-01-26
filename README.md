@@ -1,18 +1,25 @@
-# BonAppetit-Website
-Bon Appétit is a minimalist restaurant website designed using only HTML and CSS. The site offers an elegant, user-friendly interface, providing visitors with key information about the restaurant, including the menu, about, and contact details.
+# Bon Appétit - Restaurant Website  
 
-Features
-Responsive Layout:
-- Ensures an optimal viewing experience across various devices.
-Menu Display: 
-- Showcases featured dishes in a clean, organized format.
-About Us Section: 
-- Introduces the restaurant’s story and values.
-Contact Information: 
-- Easily accessible details for reservations or inquiries.
+A **responsive restaurant website** for **Bon Appétit**, created using **HTML** and **CSS**. This project highlights a clean, modern design with a focus on responsiveness for seamless viewing across devices.  
 
-Technology
-HTML5: 
- - Used for the structure and content.
-CSS3: 
-- Handles the design and layout, with responsive design features for mobile compatibility.
+## Features  
+- Fully **responsive design** for desktop, tablet, and mobile screens.  
+- Static pages showcasing the restaurant's theme and menu.  
+- Clean and organized HTML and CSS codebase.  
+
+## Technologies Used
+- HTML for structure.
+- CSS for styling, including responsive design techniques (e.g., media queries).
+
+## Pages Included
+- Home Page (Landing Page)
+- Additional sections like Menu, About Us, and Contact Us.
+
+## Limitations
+This is a static website with no backend functionality.
+
+## Future Improvements
+- Add interactivity using JavaScript.
+- Implement a booking or reservation system.
+- Enhance animations and transitions for a better user experience.
+
